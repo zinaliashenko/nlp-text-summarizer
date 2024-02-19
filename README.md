@@ -1,0 +1,1 @@
+The code uses the NLTK library to process text and generate a summary. It takes into account the frequency of each word in the text, excludes stop words and punctuation. Sentences are scored based on the sum of the weights of each word in the sentence, and then a number of the most important sentences are selected to create a summary.
